@@ -1,1 +1,3 @@
- 
+# Teste de ignorância para as pastas .idea e cmake-build-debug
+**/.idea
+**/cmake-build-debug
